@@ -17,7 +17,7 @@
         <input type="number" id="number" class="form-control" name="periodo"
             placeholder="3" min="1" required>
         <button class="btn btn-lg btn-primary btn-block" type="submit">Calcular</button>
-        <p class="mt-5 mb-3 text-muted">&copy; 2023</p>
+        <p class="mt-5 mb-3 text-muted">&copy; 2025</p>
         </form>
 
 @endsection
